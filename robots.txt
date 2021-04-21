@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: 
+Disallow: /ajaxs/
+Disallow: /bootstrap/
+Disallow: /classes/
+Disallow: /css/
+Disallow: /designs/
+Disallow: /develops/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /languages/
+Disallow: /libs/
+Disallow: /pages/
+
+Sitemap: http://www.whynotacademy.net/sitemap.xml

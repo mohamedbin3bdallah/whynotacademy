@@ -1,0 +1,27 @@
+body
+{
+	background-image: url(../uploads/background.jpg);
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: 100% 100%;
+	/*color: blue;*/
+}
+
+a
+{
+	/*color: blue;*/
+}
+
+.layout
+{
+	background-color: rgba(216, 212, 207, 0.7);
+	border-radius: 30px;
+	min-height: 450px;
+	height: auto;	
+}
+
+.posts
+{
+	background-color: rgba(162, 250, 153, 0.55);
+	border-radius: 30px;	
+}
